@@ -1,1 +1,1 @@
-# statistical-machine-learning
+Elements of statistical machine learning course at AGH
